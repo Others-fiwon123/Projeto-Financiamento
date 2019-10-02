@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuitem_inicio"
+        android:title="Início" />
+    <item
+        android:id="@+id/menuitem_sobre"
+        android:title="Sobre" />
+    <item
+        android:id="@+id/menuitem_veiculo"
+        android:title="Veículo" />
+    <item
+        android:id="@+id/menuitem_simular_residencia"
+        android:title="Simular Residência" />
+    <item
+        android:id="@+id/menuitem_sair"
+        android:title="Sair" />
+</menu>
